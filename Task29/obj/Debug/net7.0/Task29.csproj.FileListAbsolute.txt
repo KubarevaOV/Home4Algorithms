@@ -1,0 +1,15 @@
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home4Algorithms/Task29/bin/Debug/net7.0/Task29
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home4Algorithms/Task29/bin/Debug/net7.0/Task29.deps.json
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home4Algorithms/Task29/bin/Debug/net7.0/Task29.runtimeconfig.json
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home4Algorithms/Task29/bin/Debug/net7.0/Task29.dll
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home4Algorithms/Task29/bin/Debug/net7.0/Task29.pdb
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home4Algorithms/Task29/obj/Debug/net7.0/Task29.csproj.AssemblyReference.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home4Algorithms/Task29/obj/Debug/net7.0/Task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home4Algorithms/Task29/obj/Debug/net7.0/Task29.AssemblyInfoInputs.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home4Algorithms/Task29/obj/Debug/net7.0/Task29.AssemblyInfo.cs
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home4Algorithms/Task29/obj/Debug/net7.0/Task29.csproj.CoreCompileInputs.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home4Algorithms/Task29/obj/Debug/net7.0/Task29.dll
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home4Algorithms/Task29/obj/Debug/net7.0/refint/Task29.dll
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home4Algorithms/Task29/obj/Debug/net7.0/Task29.pdb
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home4Algorithms/Task29/obj/Debug/net7.0/Task29.genruntimeconfig.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home4Algorithms/Task29/obj/Debug/net7.0/ref/Task29.dll
